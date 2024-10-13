@@ -1,5 +1,3 @@
-![MacroDeck_Back](https://github.com/user-attachments/assets/da1a41fb-bb0b-45fe-af37-d415b24cf6d3)## My Poor Man’s Macro Deck
-
 My Poor Man's Macro Deck i's a modified version of NerdCave's Macro Pad V2,
 so credit goes to <a href="https://github.com/Guitarman9119/" target="_blank">NerdCave</a>.
 
@@ -11,19 +9,23 @@ Affordable Components: Uses readily available and cost-effective parts.
 Open Source: Fully open-source project, allowing for community contributions and modifications.
 
 Front:
-![MacroDeck_Front](https://github.com/user-attachments/assets/36f07080-8aae-466b-8cee-300c6f26d695)
+
+![MacroDeck_Front](https://github.com/user-attachments/assets/2ffc2ef9-a000-41d0-8c9c-065c3d9f79b7)
+
 
 Display of Macro Mode:
 
-![MacroDeck_Mode_Display](https://github.com/user-attachments/assets/ae09d0b9-c4e7-4da1-ba16-09306ded6c2d)
+![MacroDeck_Mode_Display](https://github.com/user-attachments/assets/e332119f-5e7b-430c-bd04-0b64949604b7)
+
 
 Back:
 
-![MacroDeck_Back](https://github.com/user-attachments/assets/ecfdb379-3f3c-4626-b8d6-d63e96299fc6)
+![MacroDeck_Back](https://github.com/user-attachments/assets/6a5717e0-efd0-4d63-a50f-42f6004b81bb)
+
 
 Complete:
 
-![Uploading PorMan's_MacroDeck.jpg…]()
+![PorMan's_MacroDeck](https://github.com/user-attachments/assets/bd588786-be8d-43ca-84f7-5f0f96828c59)
 
 
 Acknowledgements: Special thanks to NerdCave for the original Macro Pad V2 design and inspiration.
