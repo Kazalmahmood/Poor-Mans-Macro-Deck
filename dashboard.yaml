@@ -1,0 +1,29 @@
+views:
+  - title: "PlantBuddy Dashboard"
+    cards:
+      - type: horizontal
+        cards:
+          - type: entity
+            entity: text_sensor.plantbuddy_temperature_text
+            name: Temperature
+            icon: "mdi:thermometer"
+          - type: entity
+            entity: text_sensor.plantbuddy_humidity_text
+            name: Humidity
+            icon: "mdi:water-percent"
+
+      - type: horizontal
+        cards:
+          - type: entity
+            entity: text_sensor.plantbuddy_soil_moisture_text
+            name: Soil Moisture
+            icon: "mdi:water"
+          - type: entity
+            entity: text_sensor.plantbuddy_relay_status_text
+            name: Relay Status
+            icon: "mdi:water-pump"
+
+      - type: switch
+        entity: switch.plantbuddy_manual_override
+        name: Manual Override
+        icon: "mdi:hand-water"
